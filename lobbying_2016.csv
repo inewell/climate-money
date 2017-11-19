@@ -1,0 +1,436 @@
+rep,party,district,oil_gas,pipelines,coal
+"Byrne, Bradley",R,AL-01,33450,4000,10400
+"Roby, Martha",R,AL-02,21950,2000,7500
+"Rogers, Mike D.",R,AL-03,12500,3000,11000
+"Aderholt, Robert B.",R,AL-04,18200,0,8000
+"Brooks, Mo",R,AL-05,0,0,0
+"Palmer, Gary",R,AL-06,13550,0,13300
+"Sewell, Terri",D,AL-07,0,0,0
+"Young, Don",R,AK-AL,71550,0,2000
+"Kirkpatrick, Ann",D,AZ-01,3386,140,0
+"McSally, Martha",R,AZ-02,69146,1500,0
+"Grijalva, Raul",D,AZ-03,0,0,0
+"Gosar, Paul",R,AZ-04,5750,1000,3000
+"Salmon, Matt",R,AZ-05,16600,2500,0
+"Schweikert, David",R,AZ-06,10000,0,0
+"Gallego, Ruben",D,AZ-07,3000,1500,0
+"Franks, Trent",R,AZ-08,5500,3000,0
+"Sinema, Kyrsten",D,AZ-09,10500,2750,0
+"Crawford, Rick",R,AR-01,6250,3000,0
+"Hill, French",R,AR-02,32050,7400,0
+"Womack, Steve",R,AR-03,16500,3000,0
+"Westerman, Bruce",R,AR-04,43200,3000,1000
+"LaMalfa, Doug",R,CA-01,25250,10250,0
+"Huffman, Jared",D,CA-02,5000,5000,0
+"Garamendi, John",D,CA-03,1000,1000,0
+"McClintock, Tom",R,CA-04,18000,4000,0
+"Thompson, Mike",D,CA-05,7500,0,0
+"Matsui, Doris O.",D,CA-06,14500,1000,0
+"Bera, Ami",D,CA-07,2800,2700,0
+"Cook, Paul",R,CA-08,22400,13500,0
+"McNerney, Jerry",D,CA-09,4500,2000,0
+"Denham, Jeff",R,CA-10,188999,42999,1000
+"DeSaulnier, Mark",D,CA-11,0,0,0
+"Pelosi, Nancy",D,CA-12,428,50,0
+"Lee, Barbara J.",D,CA-13,0,0,0
+"Speier, Jackie",D,CA-14,0,0,0
+"Swalwell, Eric",D,CA-15,9200,2000,0
+"Costa, Jim",D,CA-16,95525,21000,3500
+"Honda, Mike",D,CA-17,5400,0,0
+"Eshoo, Anna G.",D,CA-18,0,0,0
+"Lofgren, Zoe",D,CA-19,3700,0,0
+"Farr, Sam",D,CA-20,0,0,0
+"Valadao, David G.",R,CA-21,0,0,0
+"Nunes, Devin G.",R,CA-22,0,0,0
+"McCarthy, Kevin",R,CA-23,337650,22100,15700
+"Capps, Lois",D,CA-24,0,0,0
+"Knight, Steve",R,CA-25,50400,0,0
+"Brownley, Julia",D,CA-26,1068,50,75
+"Chu, Judy M.",D,CA-27,0,0,0
+"Schiff, Adam B.",D,CA-28,0,0,0
+"Cárdenas, Tony",D,CA-29,0,0,0
+"Sherman, Brad J.",D,CA-30,0,0,0
+"Aguilar, Pete",D,CA-31,1103,1100,0
+"Napolitano, Grace",D,CA-32,5000,5000,0
+"Lieu, Ted",D,CA-33,0,0,0
+"Becerra, Xavier",D,CA-34,3000,2000,0
+"Torres, Norma",D,CA-35,6500,3500,0
+"Ruiz, Raul",D,CA-36,14400,3500,40
+"Bass, Karen",D,CA-37,1000,0,0
+"Sanchez, Linda",D,CA-38,7500,0,0
+"Royce, Ed",R,CA-39,47300,2500,0
+"Roybal-Allard, Lucille",D,CA-40,0,0,0
+"Takano, Mark",D,CA-41,0,0,0
+"Calvert, Ken S.",R,CA-42,0,0,0
+"Waters, Maxine",D,CA-43,5000,0,0
+"Hahn, Janice",D,CA-44,0,0,0
+"Walters, Mimi",R,CA-45,65950,5000,0
+"Sanchez, Loretta L.",D,CA-46,0,0,0
+"Lowenthal, Alan S.",D,CA-47,0,0,0
+"Rohrabacher, Dana T.",R,CA-48,0,0,0
+"Issa, Darrell",R,CA-49,46500,16100,0
+"Hunter, Duncan D.",R,CA-50,23300,1000,0
+"Vargas, Juan",D,CA-51,0,0,0
+"Peters, Scott H.",D,CA-52,0,0,0
+"Davis, Susan A.",D,CA-53,0,0,0
+"DeGette, Diana L.",D,CO-01,0,0,0
+"Polis, Jared",D,CO-02,7500,0,0
+"Tipton, Scott",R,CO-03,115100,6500,22400
+"Buck, Ken",R,CO-04,0,0,0
+"Lamborn, Doug",R,CO-05,0,0,0
+"Coffman, Mike",R,CO-06,135894,3450,13400
+"Perlmutter, Ed",D,CO-07,13500,0,0
+"Larson, John B.",D,CT-01,11000,3000,0
+"Courtney, Joe",D,CT-02,3000,2000,0
+"DeLauro, Rosa L.",D,CT-03,0,0,0
+"Himes, Jim",D,CT-04,3000,3000,0
+"Esty, Elizabeth H.",D,CT-05,0,0,0
+"Carney, John",D,DE-AL,2500,0,0
+"Miller, Jeff",R,FL-01,1000,1000,0
+"Graham, Gwen",D,FL-02,9000,1000,0
+"Yoho, Ted S.",R,FL-03,0,0,0
+"Crenshaw, Ander",R,FL-04,0,0,0
+"Brown, Corrine",D,FL-05,0,0,0
+"DeSantis, Ron",R,FL-06,61540,12500,0
+"Mica, John L.",R,FL-07,27500,2500,0
+"Posey, Bill",R,FL-08,7500,0,0
+"Grayson, Alan",D,FL-09,1424,505,0
+"Webster, Daniel",R,FL-10,2300,0,0
+"Nugent, Rich",R,FL-11,0,0,0
+"Bilirakis, Gus",R,FL-12,23700,0,0
+"Jolly, David W.",R,FL-13,0,0,0
+"Castor, Kathy",D,FL-14,0,0,0
+"Ross, Dennis",R,FL-15,13500,0,0
+"Buchanan, Vern",R,FL-16,0,0,0
+"Rooney, Tom",R,FL-17,5000,0,0
+"Murphy, Patrick",D,FL-18,16973,2800,0
+"Clawson, Curtis",R,FL-19,0,0,0
+"Hastings, Alcee L.",D,FL-20,0,0,0
+"Deutch, Ted",D,FL-21,3500,0,0
+"Frankel, Lois",D,FL-22,0,0,0
+"Wasserman Schultz, Debbie",D,FL-23,0,0,0
+"Wilson, Frederica",D,FL-24,0,0,0
+"Diaz-Balart, Mario",R,FL-25,6000,3500,0
+"Curbelo, Carlos",R,FL-26,55900,4000,0
+"Ros-Lehtinen, Ileana",R,FL-27,9000,0,0
+"Carter, Buddy",R,GA-01,12400,1000,0
+"Bishop, Sanford D.",D,GA-02,0,0,0
+"Westmoreland, Lynn A.",R,GA-03,5750,0,0
+"Johnson, Hank",D,GA-04,0,0,0
+"Lewis, John R.",D,GA-05,0,0,0
+"Price, Tom",R,GA-06,22000,2500,0
+"Woodall, Rob",R,GA-07,18500,2000,0
+"Scott, Austin",R,GA-08,3000,0,0
+"Collins, Doug",R,GA-09,18450,1000,0
+"Hice, Jody",R,GA-10,0,0,0
+"Loudermilk, Barry",R,GA-11,15000,1000,0
+"Allen, Rick",R,GA-12,0,0,0
+"Scott, David",D,GA-13,9000,2000,0
+"Graves, Tom",R,GA-14,33800,3000,0
+"Hanabusa, Colleen",D,HI-01,3500,0,0
+"Gabbard, Tulsi",D,HI-02,6330,0,0
+"Labrador, Raul",R,ID-01,14900,5500,250
+"Simpson, Mike",R,ID-02,41300,5000,3700
+"Rush, Bobby L.",D,IL-01,15500,12000,0
+"Kelly, Robin",D,IL-02,2000,0,0
+"Lipinski, Dan",D,IL-03,0,0,0
+"Gutierrez, Luis V.",D,IL-04,0,0,0
+"Quigley, Mike",D,IL-05,0,0,0
+"Roskam, Peter J.",R,IL-06,0,0,0
+"Davis, Danny K.",D,IL-07,2000,0,0
+"Duckworth, Tammy",D,IL-08,8931,1500,0
+"Schakowsky, Jan",D,IL-09,15,0,0
+"Dold, Robert",R,IL-10,0,0,0
+"Foster, Bill",D,IL-11,19350,5400,0
+"Bost, Mike",R,IL-12,29000,2500,28200
+"Davis, Rodney",R,IL-13,61000,15500,5100
+"Hultgren, Randy",R,IL-14,18000,11000,1000
+"Shimkus, John M.",R,IL-15,180450,46451,29200
+"Kinzinger, Adam",R,IL-16,66250,16500,1000
+"Bustos, Cheri",D,IL-17,11965,4000,0
+"LaHood, Darin",R,IL-18,50900,15200,4050
+"Visclosky, Peter J.",D,IN-01,0,0,0
+"Walorski, Jackie",R,IN-02,26500,0,2000
+"Stutzman, Marlin",R,IN-03,91530,5400,1000
+"Rokita, Todd",R,IN-04,25600,0,0
+"Brooks, Susan W.",R,IN-05,0,0,0
+"Messer, Luke",R,IN-06,44750,4000,0
+"Carson, Andre",D,IN-07,1000,0,0
+"Bucshon, Larry",R,IN-08,17000,0,19000
+"Young, Todd",R,IN-09,335396,21466,76920
+"Blum, Rod",R,IA-01,25400,5400,0
+"Loebsack, Dave W.",D,IA-02,0,0,0
+"Young, David",R,IA-03,23500,2500,0
+"King, Steve A.",R,IA-04,0,0,0
+"Huelskamp, Tim",R,KS-01,64697,19900,0
+"Jenkins, Lynn M.",R,KS-02,0,0,0
+"Yoder, Kevin",R,KS-03,48375,2000,0
+"Pompeo, Mike",R,KS-04,186600,25500,1000
+"Whitfield, Ed",R,KY-01,55100,0,9500
+"Guthrie, Brett",R,KY-02,58500,8000,11700
+"Yarmuth, John",D,KY-03,0,0,0
+"Massie, Thomas",R,KY-04,12500,0,1000
+"Rogers, Harold",R,KY-05,0,0,0
+"Barr, Garland",R,KY-06,0,0,0
+"Scalise, Steve",R,LA-01,280600,29250,6400
+"Richmond, Cedric L",D,LA-02,0,0,0
+"Boustany, Charles",R,LA-03,0,0,0
+"Fleming, John",R,LA-04,160130,2000,0
+"Abraham, Ralph",R,LA-05,16250,6250,0
+"Graves, Garret",R,LA-06,194199,35000,0
+"Pingree, Chellie M.",D,ME-01,0,0,0
+"Poliquin, Bruce",R,ME-02,48400,3500,0
+"Harris, Andy",R,MD-01,20500,2000,2000
+"Ruppersberger, C.A. Dutch",D,MD-02,0,0,0
+"Sarbanes, John P.",D,MD-03,0,0,0
+"Edwards, Donna",D,MD-04,4700,1500,0
+"Hoyer, Steny H.",D,MD-05,40500,15000,0
+"Delaney, John K.",D,MD-06,3500,3500,0
+"Cummings, Elijah E.",D,MD-07,32000,0,0
+"Van Hollen, Chris",D,MD-08,31000,9975,0
+"Neal, Richard E.",D,MA-01,7000,3500,0
+"McGovern, Jim",D,MA-02,0,0,0
+"Tsongas, Niki",D,MA-03,4700,0,0
+"Kennedy, Joseph P.",D,MA-04,0,0,0
+"Clark, Katherine M.",D,MA-05,0,0,0
+"Moulton, Seth",D,MA-06,4500,1000,0
+"Capuano, Michael E.",D,MA-07,29000,7400,0
+"Lynch, Stephen F.",D,MA-08,2500,0,0
+"Keating, Bill",D,MA-09,8250,3000,0
+"Benishek, Dan",R,MI-01,19925,0,2000
+"Huizenga, Bill",R,MI-02,16500,0,0
+"Amash, Justin",R,MI-03,10000,0,0
+"Moolenaar, John",R,MI-04,4050,0,0
+"Kildee, Daniel T.",D,MI-05,0,0,0
+"Upton, Fred",R,MI-06,222250,53250,4000
+"Walberg, Tim",R,MI-07,46900,1000,12500
+"Bishop, Mike",R,MI-08,19900,0,0
+"Levin, Sander M.",D,MI-09,0,0,0
+"Miller, Candice S.",R,MI-10,0,0,0
+"Trott, Dave",R,MI-11,4000,0,0
+"Dingell, Debbie",D,MI-12,17200,7000,0
+"Conyers, John",D,MI-13,0,0,0
+"Lawrence, Brenda",D,MI-14,100,0,0
+"Walz, Tim",D,MN-01,15500,0,0
+"Kline, John P.",R,MN-02,0,0,0
+"Paulsen, Erik",R,MN-03,55066,3700,0
+"McCollum, Betty",D,MN-04,0,0,0
+"Ellison, Keith M.",D,MN-05,0,0,0
+"Emmer, Tom",R,MN-06,5450,0,0
+"Peterson, Collin C.",D,MN-07,0,0,0
+"Nolan, Rick",D,MN-08,531,22,0
+"Kelly, Trent",R,MS-01,24150,3000,2700
+"Thompson, Bennie G.",D,MS-02,19500,10000,0
+"Harper, Gregg",R,MS-03,59050,8500,0
+"Palazzo, Steven",R,MS-04,47200,3500,0
+"Clay, William Lacy",D,MO-01,0,0,0
+"Wagner, Ann",R,MO-02,0,0,0
+"Luetkemeyer, Blaine",R,MO-03,6000,3000,6400
+"Hartzler, Vicky",R,MO-04,9400,3000,1000
+"Cleaver, Emanuel",D,MO-05,0,0,0
+"Graves, Sam",R,MO-06,17000,3000,1000
+"Long, Billy",R,MO-07,44500,5500,2500
+"Smith, Jason T.",R,MO-08,0,0,0
+"Zinke, Ryan",R,MT-AL,0,0,0
+"Fortenberry, Jeff",R,NE-01,1500,0,0
+"Ashford, Brad",D,NE-02,32500,1000,2000
+"Smith, Adrian M.",R,NE-03,0,0,0
+"Titus, Dina",D,NV-01,0,0,0
+"Amodei, Mark E.",R,NV-02,0,0,0
+"Heck, Joe",R,NV-03,302981,18666,20875
+"Hardy, Cresent",R,NV-04,45000,7000,0
+"Guinta, Frank",R,NH-01,34200,8100,0
+"Kuster, Ann M.",D,NH-02,0,0,0
+"Norcross, Donald W.",D,NJ-01,0,0,0
+"LoBiondo, Frank A.",R,NJ-02,0,0,0
+"MacArthur, Tom",R,NJ-03,0,0,0
+"Smith, Christopher H.",R,NJ-04,0,0,0
+"Garrett, E. Scott",R,NJ-05,0,0,0
+"Pallone, Frank J.",D,NJ-06,0,0,0
+"Lance, Leonard",R,NJ-07,23000,7000,0
+"Sires, Albio",D,NJ-08,3500,2000,0
+"Pascrell, Bill",D,NJ-09,0,0,0
+"Payne, Donald M.",D,NJ-10,0,0,0
+"Frelinghuysen, Rodney P.",R,NJ-11,0,0,0
+"Watson Coleman, Bonnie",D,NJ-12,0,0,0
+"Lujan Grisham, Michelle",D,NM-01,0,0,0
+"Pearce, Steve",R,NM-02,222150,10000,0
+"Lujan, Ben Ray",D,NM-03,0,0,0
+"Zeldin, Lee",R,NY-01,54600,1250,0
+"King, Peter T.",R,NY-02,0,0,0
+"Israel, Steve J.",D,NY-03,0,0,0
+"Rice, Kathleen",D,NY-04,5200,0,0
+"Meeks, Gregory W.",D,NY-05,2500,0,0
+"Meng, Grace",D,NY-06,0,0,0
+"Velazquez, Nydia",D,NY-07,0,0,0
+"Jeffries, Hakeem S.",D,NY-08,0,0,0
+"Clarke, Yvette D.",D,NY-09,2000,0,0
+"Nadler, Jerrold L.",D,NY-10,0,0,0
+"Donovan, Daniel M.",R,NY-11,0,0,0
+"Maloney, Carolyn B.",D,NY-12,10800,0,0
+"Rangel, Charles",D,NY-13,0,0,0
+"Crowley, Joseph",D,NY-14,10500,6000,0
+"Serrano, Jose",D,NY-15,0,0,0
+"Engel, Eliot L.",D,NY-16,11200,0,0
+"Lowey, Nita M.",D,NY-17,0,0,0
+"Maloney, Sean Patrick",D,NY-18,7500,4000,0
+"Gibson, Chris",R,NY-19,0,0,0
+"Tonko, Paul D.",D,NY-20,0,0,0
+"Stefanik, Elise",R,NY-21,55675,5500,0
+"Hanna, Richard",R,NY-22,0,0,0
+"Reed, Tom",R,NY-23,115850,28200,0
+"Katko, John",R,NY-24,62250,9000,0
+"Slaughter, Louise",D,NY-25,0,0,0
+"Higgins, Brian M.",D,NY-26,9850,8850,0
+"Collins, Chris",R,NY-27,59750,9200,0
+"Butterfield, G.K.",D,NC-01,0,0,0
+"Ellmers, Renee",R,NC-02,30500,4500,0
+"Jones, Jr., Walter",R,NC-03,0,0,0
+"Price, David",D,NC-04,6000,1000,0
+"Foxx, Virginia",R,NC-05,19000,5000,2000
+"Walker, Bradley Mark",R,NC-06,0,0,0
+"Rouzer, David",R,NC-07,23490,2000,0
+"Hudson, Richard",R,NC-08,95900,15200,0
+"Pittenger, Robert",R,NC-09,17900,12900,0
+"McHenry, Patrick T.",R,NC-10,0,0,0
+"Meadows, Mark",R,NC-11,0,0,0
+"Adams, Alma",D,NC-12,0,0,0
+"Holding, George",R,NC-13,51499,5500,1000
+"Cramer, Kevin",R,ND-AL,199900,22500,26000
+"Chabot, Steve",R,OH-01,2100,1000,0
+"Wenstrup, Brad R.",R,OH-02,0,0,0
+"Beatty, Joyce",D,OH-03,5550,1500,0
+"Jordan, Jim",R,OH-04,18000,3000,0
+"Latta, Bob",R,OH-05,0,0,0
+"Johnson, Bill",R,OH-06,129950,41000,21000
+"Gibbs, Bob",R,OH-07,45300,13800,2000
+"Davidson, Warren",R,OH-08,16161,10800,0
+"Kaptur, Marcy",D,OH-09,8500,4000,0
+"Turner, Michael R.",R,OH-10,18400,2000,0
+"Fudge, Marcia L.",D,OH-11,400,2000,0
+"Tiberi, Pat",R,OH-12,83000,6000,3500
+"Ryan, Tim",D,OH-13,15500,4000,0
+"Joyce, David P.",R,OH-14,34400,8900,11400
+"Stivers, Steve",R,OH-15,56350,12500,13075
+"Renacci, Jim",R,OH-16,55943,7200,0
+"Bridenstine, Jim",R,OK-01,0,0,0
+"Mullin, Markwayne",R,OK-02,190850,36800,10000
+"Lucas, Frank D.",R,OK-03,59550,6000,0
+"Cole, Tom",R,OK-04,104400,13700,17200
+"Russell, Steve",R,OK-05,0,0,0
+"Bonamici, Suzanne",D,OR-01,8150,2750,0
+"Walden, Greg P.",R,OR-02,0,0,0
+"Blumenauer, Earl",D,OR-03,3500,3500,0
+"DeFazio, Peter A.",D,OR-04,0,0,0
+"Schrader, Kurt",D,OR-05,54500,15000,2000
+"Brady, Robert A.",D,PA-01,24300,0,0
+"Evans, Dwight",D,PA-02,0,0,0
+"Kelly, Mike",R,PA-03,77412,22412,19500
+"Perry, Scott",R,PA-04,36500,10500,0
+"Thompson, Glenn W.",R,PA-05,0,0,0
+"Costello, Ryan",R,PA-06,36250,12000,0
+"Meehan, Patrick",R,PA-07,76450,32300,0
+"Fitzpatrick, Michael",R,PA-08,0,0,0
+"Shuster, Bill",R,PA-09,239412,62500,23300
+"Marino, Tom",R,PA-10,22250,8750,0
+"Barletta, Lou",R,PA-11,35300,9000,1500
+"Rothfus, Keith J.",R,PA-12,42050,12050,35850
+"Boyle, Brendan",D,PA-13,3500,3000,0
+"Doyle, Mike",D,PA-14,34000,21000,0
+"Dent, Charlie",R,PA-15,34400,5500,0
+"Pitts, Joe",R,PA-16,16000,3500,0
+"Cartwright, Matt A.",D,PA-17,0,0,0
+"Murphy, Tim",R,PA-18,56750,21500,21700
+"Cicilline, David",D,RI-01,0,0,0
+"Langevin, Jim",D,RI-02,500,0,0
+"Sanford, Mark",R,SC-01,6000,1000,0
+"Wilson, Joe",R,SC-02,14000,0,0
+"Duncan, Jeff",R,SC-03,43500,10500,0
+"Gowdy, Trey",R,SC-04,26400,1000,0
+"Mulvaney, Mick",R,SC-05,16000,0,0
+"Clyburn, James E.",D,SC-06,15680,3000,0
+"Rice, Tom",R,SC-07,15750,0,0
+"Noem, Kristi",R,SD-AL,75650,0,250
+"Roe, Phil",R,TN-01,4500,0,300
+"Duncan, Jr., John J.",R,TN-02,0,0,0
+"Fleischmann, Chuck",R,TN-03,17200,4500,3000
+"DesJarlais, Scott",R,TN-04,0,0,0
+"Cooper, Jim",D,TN-05,3500,1000,0
+"Black, Diane",R,TN-06,40750,3000,0
+"Blackburn, Marsha",R,TN-07,88400,13500,500
+"Fincher, Stephen",R,TN-08,0,0,0
+"Cohen, Steve",D,TN-09,0,0,0
+"Gohmert, Louie",R,TX-01,0,0,0
+"Poe, Ted",R,TX-02,67700,7300,0
+"Johnson, Sam",R,TX-03,37350,5700,0
+"Ratcliffe, John",R,TX-04,0,0,0
+"Hensarling, Jeb",R,TX-05,63650,3500,0
+"Barton, Joe",R,TX-06,213782,18450,4500
+"Culberson, John A.",R,TX-07,0,0,0
+"Brady, Kevin P.",R,TX-08,0,0,0
+"Green, Al",D,TX-09,20100,100,0
+"McCaul, Michael T.",R,TX-10,0,0,0
+"Conaway, K. Michael",R,TX-11,0,0,0
+"Granger, Kay",R,TX-12,75400,0,0
+"Thornberry, Mac",R,TX-13,69150,0,0
+"Weber, Randy K.",R,TX-14,0,0,0
+"Hinojosa, Ruben",D,TX-15,2500,1000,0
+"O'Rourke, Beto",D,TX-16,250,250,0
+"Flores, Bill",R,TX-17,202500,17500,500
+"Jackson Lee, Sheila",D,TX-18,15000,500,0
+"Neugebauer, Randy",R,TX-19,1500,0,0
+"Castro, Joaquin",D,TX-20,24250,2000,0
+"Smith, Lamar S.",R,TX-21,0,0,0
+"Olson, Pete",R,TX-22,212450,49800,1000
+"Hurd, Will",R,TX-23,316574,20400,1000
+"Marchant, Kenny E.",R,TX-24,0,0,0
+"Williams, Roger",R,TX-25,133550,0,0
+"Burgess, Michael C.",R,TX-26,0,0,0
+"Farenthold, Blake",R,TX-27,70950,13500,0
+"Cuellar, Henry",D,TX-28,153727,22500,1000
+"Green, Gene",D,TX-29,106200,42500,0
+"Johnson, Eddie Bernice",D,TX-30,4000,0,0
+"Carter, John R.",R,TX-31,0,0,0
+"Sessions, Pete",R,TX-32,127750,22200,0
+"Veasey, Marc A.",D,TX-33,0,0,0
+"Vela, Filemon",D,TX-34,35000,7000,0
+"Doggett, Lloyd A.",D,TX-35,0,0,0
+"Babin, Brian",R,TX-36,48950,7700,0
+"Bishop, Rob",R,UT-01,150516,25750,8000
+"Stewart, Chris",R,UT-02,92500,14400,5756
+"Chaffetz, Jason",R,UT-03,51800,0,3000
+"Love, Mia",R,UT-04,67336,3000,0
+"Welch, Peter F.",D,VT-AL,0,0,0
+"Wittman, Rob",R,VA-01,15950,0,0
+"Rigell, Scott",R,VA-02,6700,1000,0
+"Scott, Robert C.",D,VA-03,0,0,0
+"Forbes, J. Randy",R,VA-04,0,0,0
+"Hurt, Robert",R,VA-05,12500,4500,0
+"Goodlatte, Bob",R,VA-06,40450,0,0
+"Brat, David Alan",R,VA-07,0,0,0
+"Beyer, Donald",D,VA-08,0,0,0
+"Griffith, Morgan",R,VA-09,39318,4500,22100
+"Comstock, Barbara",R,VA-10,74775,14000,4450
+"Connolly, Gerald E.",D,VA-11,0,0,0
+"DelBene, Suzan K.",D,WA-01,0,0,0
+"Larsen, Rick",D,WA-02,35500,16000,0
+"Herrera-Beutler, Jaime",R,WA-03,0,0,0
+"Newhouse, Dan",R,WA-04,32150,5150,4000
+"McMorris Rodgers, Cathy",R,WA-05,0,0,0
+"Kilmer, Derek",D,WA-06,3950,0,0
+"McDermott, Jim",D,WA-07,0,0,0
+"Reichert, Dave",R,WA-08,10000,4750,0
+"Smith, Adam",D,WA-09,0,0,0
+"Heck, Denny",D,WA-10,0,0,0
+"McKinley, David",R,WV-01,78500,17000,36700
+"Mooney, Alex",R,WV-02,30700,8000,19126
+"Jenkins, Evan",R,WV-03,42600,3000,27600
+"Ryan, Paul",R,WI-01,685083,79375,56790
+"Pocan, Mark",D,WI-02,4000,2000,0
+"Kind, Ron",D,WI-03,7000,1000,0
+"Moore, Gwen",D,WI-04,0,0,0
+"Sensenbrenner, James F.",R,WI-05,0,0,0
+"Grothman, Glenn",R,WI-06,0,0,0
+"Duffy, Sean",R,WI-07,0,0,0
+"Ribble, Reid",R,WI-08,18400,1000,0
+"Lummis, Cynthia M.",R,WY-AL,0,0,0
